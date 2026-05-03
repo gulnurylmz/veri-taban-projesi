@@ -1,0 +1,2 @@
+SayfaAdresBaşvuru formu   http://localhost/IsBasvuruSistemi/index.php
+Admin girişi   http://localhost/IsBasvuruSistemi/login.php
